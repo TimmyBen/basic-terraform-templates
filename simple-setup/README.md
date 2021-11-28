@@ -1,4 +1,4 @@
-# A simple VPC containing one EC2 instance and its security group all.
+# A simple VPC containing one EC2 instance and its security group.
 
 ## This contains the following core AWS resources:
 
